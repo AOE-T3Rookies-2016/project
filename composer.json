@@ -15,7 +15,6 @@
             "bk2k/bootstrap-package": "*",
             "typo3-ter/realurl": "*",
             "helhum/typo3-console": "*",
-            "typo3-ter/extension-builder": "*",
             "t3rookies/ligatures": "@dev"
         },
         "extra": {
