@@ -3,6 +3,10 @@
         {
             "type": "composer",
             "url": "https://composer.typo3.org/"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/AOE-T3Rookies-2016/ligatures"
         }
     ],
         "require": {
@@ -11,7 +15,8 @@
             "bk2k/bootstrap-package": "*",
             "typo3-ter/realurl": "*",
             "helhum/typo3-console": "*",
-            "typo3-ter/extension-builder": "*"
+            "typo3-ter/extension-builder": "*",
+            "t3rookies/ligatures": "@dev"
         },
         "extra": {
             "typo3/cms": {
